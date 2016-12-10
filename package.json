@@ -1,0 +1,22 @@
+{
+  "name": "electrical_components",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TrevorRawlings/electrical_components"
+  },
+  "keywords": [
+    "freecad",
+    "eaglepcb2feecad",
+    "electrical",
+	"PCB",
+	"Printed Circuit Board"
+  ],
+  "author": "Trevor Rawlings",
+  "contributors": [
+    "marmni <marmni@onet.eu>"
+  ],
+  "license": "GNU Lesser General Public License (LGPL)"
+}
